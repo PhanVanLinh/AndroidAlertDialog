@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidAlertDIalog</string>
+
+    <string name="alert">Alert</string>
+    <string name="message">Here is alert dialog message</string>
+    <string name="hint">hint</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
